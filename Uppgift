@@ -1,0 +1,2 @@
+name = input("Skriv namn: ")
+print("Välkommen \"" + name + "\"")
